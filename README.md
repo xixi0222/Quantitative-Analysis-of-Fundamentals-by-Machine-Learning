@@ -2,7 +2,7 @@
 
 ### Brief Introduction
 1. Quantitative analysis of fundamentals in quarterly reports by Machine Learning.  
-2. Do data preprocess from raw data before model training.
+2. Preprocess data from raw data before model training.
 2. Use 20 fundamental attributes to fit the model.  
 3. Use 10 Machine Learning Models to do the training and prediction.  
 4. After each model, do the result analysis.
